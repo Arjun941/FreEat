@@ -1,5 +1,6 @@
 # FreEat
-## Solution challenge 2024 project.
+## Solution challenge 2024 project
+development in initial stages
 
 FreEat
 
