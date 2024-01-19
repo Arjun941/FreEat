@@ -12,3 +12,5 @@ the foodie revolution on your phone! We're shaking things up—linking scrumptio
     • As soon as the user clicks a listing,they are redirected to a page where further details are given like the details of the entity,Timing,Food items given and the amount left ,Images(optional),Location,donation options(optional) and an option to share the details on social media.
     • A dashboard for the organizing party to add,remove and update listings.
     • An option for prioritized entry listings to make sure the people in actual need gets the food and avoid rush.
+## So far,
+• Added a structure and temporary placeholder text
